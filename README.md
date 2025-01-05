@@ -1,4 +1,4 @@
 # UAS-KK
 Tugas akhir kemanan komputer
 
-install pip install pycryptodome psutil
+install: pip install pycryptodome psutil
